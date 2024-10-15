@@ -22,7 +22,7 @@ To use this script, follow these steps:
 5. **View Results**: Once the script has processed the URLs, the title, meta description, and h1 content will appear in columns B, C, and D respectively.
 
 ## Current Limitations
-- **Character Decoding**: The script does not always decode characters perfectly. Special characters may not render as expected in some cases, which can affect the accuracy of the data retrieved.
+~~- **Character Decoding**: The script does not always decode characters perfectly. Special characters may not render as expected in some cases, which can affect the accuracy of the data retrieved.~~ This was fixed in latest release. 
 
 ## Contributing
 Feel free to fork this repository and contribute to improving the decoding functionality or extending the script's capabilities. Your contributions are welcome!
